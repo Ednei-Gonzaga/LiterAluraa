@@ -22,7 +22,8 @@
    mvn spring-boot:run
    ```
 
-## Estrutura do Projeto
+## Estrutura 
+
 
 - `br.com.alura.literalura`: Pacote principal do projeto.
   - `principal`: Contém a classe `Principal`.
